@@ -1,1 +1,23 @@
+navsidebar {
+  width: 10%;
+  padding: 5px;
+  margin: 2px;
+  box-sizing: border-box;
+  float: left;
+}
 
+#rightSidebar {
+  width: 25%;
+  padding: 5px;
+  margins: 2px;
+  box-sizing: border-box;
+  float; left;
+}
+
+#mainContent {
+ width: 25%;
+ padding:5px;
+ margin: 2px;
+ box-sizing: border-box;
+ float; left;
+}
