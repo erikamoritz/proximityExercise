@@ -2,21 +2,21 @@ header {
   background-color: #52637B;
   text-align: center;
   color: white;
-
-}
+  }
 
 h1{
   font-size: 70px;
-  width: 45%;
+  width: 50%;
   border-bottom: white solid;
   margin: auto;
   color: white;
+  font-family: Lora;
 
 }
 nav {
   width: 22%;
   padding: 5px;
-  margin: 2px;
+  margin: 0px;
   box-sizing: border-box;
   float: left;
   background-color: #FFFAF3;
@@ -25,7 +25,7 @@ nav {
 #rightSidebar {
   width: 22%;
   padding: 5px;
-  margin: 2px;
+  margin: 0px;
   box-sizing: border-box;
   float: left;
   background-color: #FFFAF3;
@@ -34,8 +34,13 @@ nav {
 #mainContent {
  width: 55%;
  padding: 5px;
- margin: 2px;
+ margin: 0px;
  box-sizing: border-box;
- border: 5px solid #52637B;
+ border-left: 5px solid #52637B;
+ border-right: 5px solid #52637B;
+ border-bottom: 5px solid #52637B;
  float: left;
+}
+#image1 {
+  float: right;
 }
